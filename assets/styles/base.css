@@ -4,6 +4,7 @@ header {
     height: 7em;
     margin-bottom: 1em;
     box-shadow: 5px 5px 10px grey;
+    width: 100%;
     position: fixed;
 }
 #header__list {
